@@ -27,59 +27,59 @@
 
 1. 项目创建
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819204135596.png" alt="image-20220819204135596" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513107.png" alt="image-20220819204135596" style="zoom:80%;" />
 
 2. 页面配置
 
-   <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819204257141.png" alt="image-20220819204257141" style="zoom:80%;" />
+   <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513109.png" alt="image-20220819204257141" style="zoom:80%;" />
 
 3. 视图设计
 
    1. 导航栏设计
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819204529523.png" alt="image-20220819204529523" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513110.png" alt="image-20220819204529523" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819204540151.png" alt="image-20220819204540151" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513111.png" alt="image-20220819204540151" style="zoom:80%;" />
 
    2. 页面设计
 
       1. 区域1：视频播放器
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819205937346.png" alt="image-20220819205937346" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513112.png" alt="image-20220819205937346" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819205946243.png" alt="image-20220819205946243" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513113.png" alt="image-20220819205946243" style="zoom:80%;" />
 
       2. 区域2：弹幕发送区域
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819210001765.png" alt="image-20220819210001765" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513114.png" alt="image-20220819210001765" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819210009622.png" alt="image-20220819210009622" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513115.png" alt="image-20220819210009622" style="zoom:80%;" />
 
       3. 区域3：视频列表
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819211352742.png" alt="image-20220819211352742" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513116.png" alt="image-20220819211352742" style="zoom:80%;" />
 
-         <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819211406321.png" alt="image-20220819211406321" style="zoom:80%;" />
+         <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513117.png" alt="image-20220819211406321" style="zoom:80%;" />
 
 4. 逻辑实现
 
    1. 更新播放列表
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819212349084.png" alt="image-20220819212349084" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513118.png" alt="image-20220819212349084" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220819212357305.png" alt="image-20220819212357305" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513119.png" alt="image-20220819212357305" style="zoom:80%;" />
 
    2. 点击播放视频
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820143127802.png" alt="image-20220820143127802" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513120.png" alt="image-20220820143127802" style="zoom:80%;" />
 
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820143554348.png" alt="image-20220820143554348" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513121.png" alt="image-20220820143554348" style="zoom:80%;" />
    
    3. 发送弹幕
    
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820145602656.png" alt="image-20220820145602656" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513122.png" alt="image-20220820145602656" style="zoom:80%;" />
    
-      <img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820145630763.png" alt="image-20220820145630763" style="zoom:80%;" />
+      <img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513123.png" alt="image-20220820145630763" style="zoom:80%;" />
    
       
    
@@ -88,9 +88,9 @@
 
 列出程序的最终运行结果及截图。
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820145647379.png" alt="image-20220820145647379" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513124.png" alt="image-20220820145647379" style="zoom:80%;" />
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820145713542.png" alt="image-20220820145713542" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513125.png" alt="image-20220820145713542" style="zoom:80%;" />
 
 
 
@@ -100,7 +100,7 @@
 
 - `vx:key`元素指定不明确
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20220820145920418.png" alt="image-20220820145920418" style="zoom:80%;" />
+<img src="https://expicture.oss-cn-beijing.aliyuncs.com/img/202208201513126.png" alt="image-20220820145920418" style="zoom:80%;" />
 
 ​	实验自始至终未指定`video{{index}}`到底指的是什么
 
